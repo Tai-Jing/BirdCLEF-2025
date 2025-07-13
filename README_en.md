@@ -1,4 +1,4 @@
-# BirdCLEF 2025 Endangered Bird Audio Recognition Project
+# BirdCLEF 2025 Endangered Bird Audio Recognition 
 
 This project is a solution for the Kaggle BirdCLEF 2025 bird audio recognition competition, covering data preprocessing, feature extraction, model training, inference, and model conversion. **All code is organized as Jupyter Notebooks for easy reproduction of experiments.**
 
