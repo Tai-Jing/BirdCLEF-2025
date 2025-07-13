@@ -1,0 +1,9 @@
+torch
+librosa
+timm
+opencv-python
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm 

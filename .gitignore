@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据和模型
+*.pkl
+*.pth
+*.npz
+*.npy
+outputs/
+data/
+
+# 日志
+*.log
+
+# 其他
+.DS_Store 
