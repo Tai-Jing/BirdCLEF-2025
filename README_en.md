@@ -4,6 +4,10 @@ This project is a solution for the Kaggle BirdCLEF 2025 bird audio recognition c
 
 ---
 
+## 🌐 Language:
+- [Chinese](README.md)
+---
+
 ## 📂 Directory Structure
 
 ```
